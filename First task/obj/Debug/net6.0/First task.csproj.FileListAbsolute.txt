@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/home work 2/First task/bin/Debug/net6.0/First task
+/Users/macbook/Desktop/home work 2/First task/bin/Debug/net6.0/First task.deps.json
+/Users/macbook/Desktop/home work 2/First task/bin/Debug/net6.0/First task.runtimeconfig.json
+/Users/macbook/Desktop/home work 2/First task/bin/Debug/net6.0/First task.dll
+/Users/macbook/Desktop/home work 2/First task/bin/Debug/net6.0/First task.pdb
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/First task.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/First task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/First task.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/First task.AssemblyInfo.cs
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/First task.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/First task.dll
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/refint/First task.dll
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/First task.pdb
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/First task.genruntimeconfig.cache
+/Users/macbook/Desktop/home work 2/First task/obj/Debug/net6.0/ref/First task.dll
